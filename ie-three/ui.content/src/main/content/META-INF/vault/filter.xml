@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/ie-three" mode="merge"/>
+    <filter root="/content/ie-three" mode="merge"/>
+    <filter root="/content/dam/ie-three" mode="merge"/>
+    <filter root="/content/experience-fragments/ie-three" mode="merge"/>
+</workspaceFilter>
